@@ -26,9 +26,10 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 Run:
 
 ```bash
-npm run dev
-# or
 yarn dev
+# i have used yarn here
+# or
+npm run dev
 # or
 pnpm dev
 # or
