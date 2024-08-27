@@ -2,7 +2,9 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Try it out at
 
+## Demo
 
+![Demo](https://github.com/user-attachments/assets/c526f106-f38c-4172-b668-95076bbc8f06)
 
 ## Sorting Algorithms Used
 
